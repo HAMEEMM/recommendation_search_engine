@@ -1,0 +1,902 @@
+[
+  {
+    "contentId": "C1",
+    "title": "Arrhythmia Medication Guide",
+    "tags": [
+      "ARRHYTHMIA",
+      "MEDICATION"
+    ],
+    "specialty": "NEUROLOGY",
+    "channel": "EMAIL",
+    "popularityScore": 53,
+    "freshnessDays": 12
+  },
+  {
+    "contentId": "C2",
+    "title": "Diabetes Nutrition Guide",
+    "tags": [
+      "DIABETES",
+      "NUTRITION"
+    ],
+    "specialty": "ENDOCRINOLOGY",
+    "channel": "WEB",
+    "popularityScore": 80,
+    "freshnessDays": 10
+  },
+  {
+    "contentId": "C3",
+    "title": "Diabetes Nutrition Guide",
+    "tags": [
+      "DIABETES",
+      "NUTRITION"
+    ],
+    "specialty": "ENDOCRINOLOGY",
+    "channel": "WEB",
+    "popularityScore": 80,
+    "freshnessDays": 10
+  },
+  {
+    "contentId": "C4",
+    "title": "Ortho Stress Guide",
+    "tags": [
+      "ORTHO",
+      "STRESS"
+    ],
+    "specialty": "ONCOLOGY",
+    "channel": "EMAIL",
+    "popularityScore": 92,
+    "freshnessDays": 45
+  },
+  {
+    "contentId": "C5",
+    "title": "Heart Stress Guide",
+    "tags": [
+      "HEART",
+      "STRESS"
+    ],
+    "specialty": "PRIMARY_CARE",
+    "channel": "MOBILE",
+    "popularityScore": 44,
+    "freshnessDays": 56
+  },
+  {
+    "contentId": "C6",
+    "title": "Exercise Vaccine Guide",
+    "tags": [
+      "EXERCISE",
+      "VACCINE"
+    ],
+    "specialty": "DERMATOLOGY",
+    "channel": "WEB",
+    "popularityScore": 57,
+    "freshnessDays": 7
+  },
+  {
+    "contentId": "C7",
+    "title": "Allergy Chest Pain Guide",
+    "tags": [
+      "ALLERGY",
+      "CHEST_PAIN"
+    ],
+    "specialty": "ENDOCRINOLOGY",
+    "channel": "EMAIL",
+    "popularityScore": 70,
+    "freshnessDays": 18
+  },
+  {
+    "contentId": "C8",
+    "title": "Diabetes Surgery Guide",
+    "tags": [
+      "DIABETES",
+      "SURGERY"
+    ],
+    "specialty": "NEUROLOGY",
+    "channel": "MOBILE",
+    "popularityScore": 83,
+    "freshnessDays": 29
+  },
+  {
+    "contentId": "C9",
+    "title": "Arrhythmia Blood Pressure Guide",
+    "tags": [
+      "ARRHYTHMIA",
+      "BLOOD_PRESSURE"
+    ],
+    "specialty": "ORTHOPEDICS",
+    "channel": "WEB",
+    "popularityScore": 96,
+    "freshnessDays": 40
+  },
+  {
+    "contentId": "C10",
+    "title": "Migraine Prevention Guide",
+    "tags": [
+      "MIGRAINE",
+      "PREVENTION"
+    ],
+    "specialty": "CARDIOLOGY",
+    "channel": "EMAIL",
+    "popularityScore": 48,
+    "freshnessDays": 51
+  },
+  {
+    "contentId": "C11",
+    "title": "Prevention Surgery Guide",
+    "tags": [
+      "PREVENTION",
+      "SURGERY"
+    ],
+    "specialty": "ONCOLOGY",
+    "channel": "MOBILE",
+    "popularityScore": 61,
+    "freshnessDays": 2
+  },
+  {
+    "contentId": "C12",
+    "title": "Cancer Stress Guide",
+    "tags": [
+      "CANCER",
+      "STRESS"
+    ],
+    "specialty": "PRIMARY_CARE",
+    "channel": "WEB",
+    "popularityScore": 74,
+    "freshnessDays": 13
+  },
+  {
+    "contentId": "C13",
+    "title": "Covid Heart Guide",
+    "tags": [
+      "COVID",
+      "HEART"
+    ],
+    "specialty": "DERMATOLOGY",
+    "channel": "EMAIL",
+    "popularityScore": 87,
+    "freshnessDays": 24
+  },
+  {
+    "contentId": "C14",
+    "title": "Arrhythmia Exercise Guide",
+    "tags": [
+      "ARRHYTHMIA",
+      "EXERCISE"
+    ],
+    "specialty": "ENDOCRINOLOGY",
+    "channel": "MOBILE",
+    "popularityScore": 100,
+    "freshnessDays": 35
+  },
+  {
+    "contentId": "C15",
+    "title": "Allergy Recovery Guide",
+    "tags": [
+      "ALLERGY",
+      "RECOVERY"
+    ],
+    "specialty": "NEUROLOGY",
+    "channel": "WEB",
+    "popularityScore": 52,
+    "freshnessDays": 46
+  },
+  {
+    "contentId": "C16",
+    "title": "Diabetes Weight Loss Guide",
+    "tags": [
+      "DIABETES",
+      "WEIGHT_LOSS"
+    ],
+    "specialty": "ORTHOPEDICS",
+    "channel": "EMAIL",
+    "popularityScore": 65,
+    "freshnessDays": 57
+  },
+  {
+    "contentId": "C17",
+    "title": "Arrhythmia Diabetes Guide",
+    "tags": [
+      "ARRHYTHMIA",
+      "DIABETES"
+    ],
+    "specialty": "CARDIOLOGY",
+    "channel": "MOBILE",
+    "popularityScore": 78,
+    "freshnessDays": 8
+  },
+  {
+    "contentId": "C18",
+    "title": "Prevention Wellness Guide",
+    "tags": [
+      "PREVENTION",
+      "WELLNESS"
+    ],
+    "specialty": "ONCOLOGY",
+    "channel": "WEB",
+    "popularityScore": 91,
+    "freshnessDays": 19
+  },
+  {
+    "contentId": "C19",
+    "title": "Screening Surgery Guide",
+    "tags": [
+      "SCREENING",
+      "SURGERY"
+    ],
+    "specialty": "PRIMARY_CARE",
+    "channel": "EMAIL",
+    "popularityScore": 43,
+    "freshnessDays": 30
+  },
+  {
+    "contentId": "C20",
+    "title": "Allergy Stress Guide",
+    "tags": [
+      "ALLERGY",
+      "STRESS"
+    ],
+    "specialty": "DERMATOLOGY",
+    "channel": "MOBILE",
+    "popularityScore": 56,
+    "freshnessDays": 41
+  },
+  {
+    "contentId": "C21",
+    "title": "Heart Skin Guide",
+    "tags": [
+      "HEART",
+      "SKIN"
+    ],
+    "specialty": "ENDOCRINOLOGY",
+    "channel": "WEB",
+    "popularityScore": 69,
+    "freshnessDays": 52
+  },
+  {
+    "contentId": "C22",
+    "title": "Exercise Sleep Guide",
+    "tags": [
+      "EXERCISE",
+      "SLEEP"
+    ],
+    "specialty": "NEUROLOGY",
+    "channel": "EMAIL",
+    "popularityScore": 82,
+    "freshnessDays": 3
+  },
+  {
+    "contentId": "C23",
+    "title": "Allergy Exercise Guide",
+    "tags": [
+      "ALLERGY",
+      "EXERCISE"
+    ],
+    "specialty": "ORTHOPEDICS",
+    "channel": "MOBILE",
+    "popularityScore": 95,
+    "freshnessDays": 14
+  },
+  {
+    "contentId": "C24",
+    "title": "Diabetes Nutrition Guide",
+    "tags": [
+      "DIABETES",
+      "NUTRITION"
+    ],
+    "specialty": "CARDIOLOGY",
+    "channel": "WEB",
+    "popularityScore": 47,
+    "freshnessDays": 25
+  },
+  {
+    "contentId": "C25",
+    "title": "Arrhythmia Medication Guide",
+    "tags": [
+      "ARRHYTHMIA",
+      "MEDICATION"
+    ],
+    "specialty": "ONCOLOGY",
+    "channel": "EMAIL",
+    "popularityScore": 60,
+    "freshnessDays": 36
+  },
+  {
+    "contentId": "C26",
+    "title": "Heart Prevention Guide",
+    "tags": [
+      "HEART",
+      "PREVENTION"
+    ],
+    "specialty": "PRIMARY_CARE",
+    "channel": "MOBILE",
+    "popularityScore": 73,
+    "freshnessDays": 47
+  },
+  {
+    "contentId": "C27",
+    "title": "Asthma Surgery Guide",
+    "tags": [
+      "ASTHMA",
+      "SURGERY"
+    ],
+    "specialty": "DERMATOLOGY",
+    "channel": "WEB",
+    "popularityScore": 86,
+    "freshnessDays": 58
+  },
+  {
+    "contentId": "C28",
+    "title": "Ortho Stress Guide",
+    "tags": [
+      "ORTHO",
+      "STRESS"
+    ],
+    "specialty": "ENDOCRINOLOGY",
+    "channel": "EMAIL",
+    "popularityScore": 99,
+    "freshnessDays": 9
+  },
+  {
+    "contentId": "C29",
+    "title": "Heart Stress Guide",
+    "tags": [
+      "HEART",
+      "STRESS"
+    ],
+    "specialty": "NEUROLOGY",
+    "channel": "MOBILE",
+    "popularityScore": 51,
+    "freshnessDays": 20
+  },
+  {
+    "contentId": "C30",
+    "title": "Exercise Vaccine Guide",
+    "tags": [
+      "EXERCISE",
+      "VACCINE"
+    ],
+    "specialty": "ORTHOPEDICS",
+    "channel": "WEB",
+    "popularityScore": 64,
+    "freshnessDays": 31
+  },
+  {
+    "contentId": "C31",
+    "title": "Allergy Chest Pain Guide",
+    "tags": [
+      "ALLERGY",
+      "CHEST_PAIN"
+    ],
+    "specialty": "CARDIOLOGY",
+    "channel": "EMAIL",
+    "popularityScore": 77,
+    "freshnessDays": 42
+  },
+  {
+    "contentId": "C32",
+    "title": "Diabetes Surgery Guide",
+    "tags": [
+      "DIABETES",
+      "SURGERY"
+    ],
+    "specialty": "ONCOLOGY",
+    "channel": "MOBILE",
+    "popularityScore": 90,
+    "freshnessDays": 53
+  },
+  {
+    "contentId": "C33",
+    "title": "Arrhythmia Blood Pressure Guide",
+    "tags": [
+      "ARRHYTHMIA",
+      "BLOOD_PRESSURE"
+    ],
+    "specialty": "PRIMARY_CARE",
+    "channel": "WEB",
+    "popularityScore": 42,
+    "freshnessDays": 4
+  },
+  {
+    "contentId": "C34",
+    "title": "Migraine Prevention Guide",
+    "tags": [
+      "MIGRAINE",
+      "PREVENTION"
+    ],
+    "specialty": "DERMATOLOGY",
+    "channel": "EMAIL",
+    "popularityScore": 55,
+    "freshnessDays": 15
+  },
+  {
+    "contentId": "C35",
+    "title": "Prevention Surgery Guide",
+    "tags": [
+      "PREVENTION",
+      "SURGERY"
+    ],
+    "specialty": "ENDOCRINOLOGY",
+    "channel": "MOBILE",
+    "popularityScore": 68,
+    "freshnessDays": 26
+  },
+  {
+    "contentId": "C36",
+    "title": "Cancer Stress Guide",
+    "tags": [
+      "CANCER",
+      "STRESS"
+    ],
+    "specialty": "NEUROLOGY",
+    "channel": "WEB",
+    "popularityScore": 81,
+    "freshnessDays": 37
+  },
+  {
+    "contentId": "C37",
+    "title": "Covid Heart Guide",
+    "tags": [
+      "COVID",
+      "HEART"
+    ],
+    "specialty": "ORTHOPEDICS",
+    "channel": "EMAIL",
+    "popularityScore": 94,
+    "freshnessDays": 48
+  },
+  {
+    "contentId": "C38",
+    "title": "Arrhythmia Exercise Guide",
+    "tags": [
+      "ARRHYTHMIA",
+      "EXERCISE"
+    ],
+    "specialty": "CARDIOLOGY",
+    "channel": "MOBILE",
+    "popularityScore": 46,
+    "freshnessDays": 59
+  },
+  {
+    "contentId": "C39",
+    "title": "Allergy Recovery Guide",
+    "tags": [
+      "ALLERGY",
+      "RECOVERY"
+    ],
+    "specialty": "ONCOLOGY",
+    "channel": "WEB",
+    "popularityScore": 59,
+    "freshnessDays": 10
+  },
+  {
+    "contentId": "C40",
+    "title": "Diabetes Weight Loss Guide",
+    "tags": [
+      "DIABETES",
+      "WEIGHT_LOSS"
+    ],
+    "specialty": "PRIMARY_CARE",
+    "channel": "EMAIL",
+    "popularityScore": 72,
+    "freshnessDays": 21
+  },
+  {
+    "contentId": "C41",
+    "title": "Arrhythmia Diabetes Guide",
+    "tags": [
+      "ARRHYTHMIA",
+      "DIABETES"
+    ],
+    "specialty": "DERMATOLOGY",
+    "channel": "MOBILE",
+    "popularityScore": 85,
+    "freshnessDays": 32
+  },
+  {
+    "contentId": "C42",
+    "title": "Prevention Wellness Guide",
+    "tags": [
+      "PREVENTION",
+      "WELLNESS"
+    ],
+    "specialty": "ENDOCRINOLOGY",
+    "channel": "WEB",
+    "popularityScore": 98,
+    "freshnessDays": 43
+  },
+  {
+    "contentId": "C43",
+    "title": "Screening Surgery Guide",
+    "tags": [
+      "SCREENING",
+      "SURGERY"
+    ],
+    "specialty": "NEUROLOGY",
+    "channel": "EMAIL",
+    "popularityScore": 50,
+    "freshnessDays": 54
+  },
+  {
+    "contentId": "C44",
+    "title": "Allergy Stress Guide",
+    "tags": [
+      "ALLERGY",
+      "STRESS"
+    ],
+    "specialty": "ORTHOPEDICS",
+    "channel": "MOBILE",
+    "popularityScore": 63,
+    "freshnessDays": 5
+  },
+  {
+    "contentId": "C45",
+    "title": "Heart Skin Guide",
+    "tags": [
+      "HEART",
+      "SKIN"
+    ],
+    "specialty": "CARDIOLOGY",
+    "channel": "WEB",
+    "popularityScore": 76,
+    "freshnessDays": 16
+  },
+  {
+    "contentId": "C46",
+    "title": "Exercise Sleep Guide",
+    "tags": [
+      "EXERCISE",
+      "SLEEP"
+    ],
+    "specialty": "ONCOLOGY",
+    "channel": "EMAIL",
+    "popularityScore": 89,
+    "freshnessDays": 27
+  },
+  {
+    "contentId": "C47",
+    "title": "Allergy Exercise Guide",
+    "tags": [
+      "ALLERGY",
+      "EXERCISE"
+    ],
+    "specialty": "PRIMARY_CARE",
+    "channel": "MOBILE",
+    "popularityScore": 41,
+    "freshnessDays": 38
+  },
+  {
+    "contentId": "C48",
+    "title": "Diabetes Nutrition Guide",
+    "tags": [
+      "DIABETES",
+      "NUTRITION"
+    ],
+    "specialty": "DERMATOLOGY",
+    "channel": "WEB",
+    "popularityScore": 54,
+    "freshnessDays": 49
+  },
+  {
+    "contentId": "C49",
+    "title": "Arrhythmia Medication Guide",
+    "tags": [
+      "ARRHYTHMIA",
+      "MEDICATION"
+    ],
+    "specialty": "ENDOCRINOLOGY",
+    "channel": "EMAIL",
+    "popularityScore": 67,
+    "freshnessDays": 60
+  },
+  {
+    "contentId": "C50",
+    "title": "Heart Prevention Guide",
+    "tags": [
+      "HEART",
+      "PREVENTION"
+    ],
+    "specialty": "NEUROLOGY",
+    "channel": "MOBILE",
+    "popularityScore": 80,
+    "freshnessDays": 11
+  },
+  {
+    "contentId": "C51",
+    "title": "Asthma Surgery Guide",
+    "tags": [
+      "ASTHMA",
+      "SURGERY"
+    ],
+    "specialty": "ORTHOPEDICS",
+    "channel": "WEB",
+    "popularityScore": 93,
+    "freshnessDays": 22
+  },
+  {
+    "contentId": "C52",
+    "title": "Ortho Stress Guide",
+    "tags": [
+      "ORTHO",
+      "STRESS"
+    ],
+    "specialty": "CARDIOLOGY",
+    "channel": "EMAIL",
+    "popularityScore": 45,
+    "freshnessDays": 33
+  },
+  {
+    "contentId": "C53",
+    "title": "Heart Stress Guide",
+    "tags": [
+      "HEART",
+      "STRESS"
+    ],
+    "specialty": "ONCOLOGY",
+    "channel": "MOBILE",
+    "popularityScore": 58,
+    "freshnessDays": 44
+  },
+  {
+    "contentId": "C54",
+    "title": "Exercise Vaccine Guide",
+    "tags": [
+      "EXERCISE",
+      "VACCINE"
+    ],
+    "specialty": "PRIMARY_CARE",
+    "channel": "WEB",
+    "popularityScore": 71,
+    "freshnessDays": 55
+  },
+  {
+    "contentId": "C55",
+    "title": "Allergy Chest Pain Guide",
+    "tags": [
+      "ALLERGY",
+      "CHEST_PAIN"
+    ],
+    "specialty": "DERMATOLOGY",
+    "channel": "EMAIL",
+    "popularityScore": 84,
+    "freshnessDays": 6
+  },
+  {
+    "contentId": "C56",
+    "title": "Diabetes Surgery Guide",
+    "tags": [
+      "DIABETES",
+      "SURGERY"
+    ],
+    "specialty": "ENDOCRINOLOGY",
+    "channel": "MOBILE",
+    "popularityScore": 97,
+    "freshnessDays": 17
+  },
+  {
+    "contentId": "C57",
+    "title": "Arrhythmia Blood Pressure Guide",
+    "tags": [
+      "ARRHYTHMIA",
+      "BLOOD_PRESSURE"
+    ],
+    "specialty": "NEUROLOGY",
+    "channel": "WEB",
+    "popularityScore": 49,
+    "freshnessDays": 28
+  },
+  {
+    "contentId": "C58",
+    "title": "Migraine Prevention Guide",
+    "tags": [
+      "MIGRAINE",
+      "PREVENTION"
+    ],
+    "specialty": "ORTHOPEDICS",
+    "channel": "EMAIL",
+    "popularityScore": 62,
+    "freshnessDays": 39
+  },
+  {
+    "contentId": "C59",
+    "title": "Prevention Surgery Guide",
+    "tags": [
+      "PREVENTION",
+      "SURGERY"
+    ],
+    "specialty": "CARDIOLOGY",
+    "channel": "MOBILE",
+    "popularityScore": 75,
+    "freshnessDays": 50
+  },
+  {
+    "contentId": "C60",
+    "title": "Cancer Stress Guide",
+    "tags": [
+      "CANCER",
+      "STRESS"
+    ],
+    "specialty": "ONCOLOGY",
+    "channel": "WEB",
+    "popularityScore": 88,
+    "freshnessDays": 1
+  },
+  {
+    "contentId": "C61",
+    "title": "Covid Heart Guide",
+    "tags": [
+      "COVID",
+      "HEART"
+    ],
+    "specialty": "PRIMARY_CARE",
+    "channel": "EMAIL",
+    "popularityScore": 40,
+    "freshnessDays": 12
+  },
+  {
+    "contentId": "C62",
+    "title": "Arrhythmia Exercise Guide",
+    "tags": [
+      "ARRHYTHMIA",
+      "EXERCISE"
+    ],
+    "specialty": "DERMATOLOGY",
+    "channel": "MOBILE",
+    "popularityScore": 53,
+    "freshnessDays": 23
+  },
+  {
+    "contentId": "C63",
+    "title": "Allergy Recovery Guide",
+    "tags": [
+      "ALLERGY",
+      "RECOVERY"
+    ],
+    "specialty": "ENDOCRINOLOGY",
+    "channel": "WEB",
+    "popularityScore": 66,
+    "freshnessDays": 34
+  },
+  {
+    "contentId": "C64",
+    "title": "Diabetes Weight Loss Guide",
+    "tags": [
+      "DIABETES",
+      "WEIGHT_LOSS"
+    ],
+    "specialty": "NEUROLOGY",
+    "channel": "EMAIL",
+    "popularityScore": 79,
+    "freshnessDays": 45
+  },
+  {
+    "contentId": "C65",
+    "title": "Arrhythmia Diabetes Guide",
+    "tags": [
+      "ARRHYTHMIA",
+      "DIABETES"
+    ],
+    "specialty": "ORTHOPEDICS",
+    "channel": "MOBILE",
+    "popularityScore": 92,
+    "freshnessDays": 56
+  },
+  {
+    "contentId": "C66",
+    "title": "Prevention Wellness Guide",
+    "tags": [
+      "PREVENTION",
+      "WELLNESS"
+    ],
+    "specialty": "CARDIOLOGY",
+    "channel": "WEB",
+    "popularityScore": 44,
+    "freshnessDays": 7
+  },
+  {
+    "contentId": "C67",
+    "title": "Screening Surgery Guide",
+    "tags": [
+      "SCREENING",
+      "SURGERY"
+    ],
+    "specialty": "ONCOLOGY",
+    "channel": "EMAIL",
+    "popularityScore": 57,
+    "freshnessDays": 18
+  },
+  {
+    "contentId": "C68",
+    "title": "Allergy Stress Guide",
+    "tags": [
+      "ALLERGY",
+      "STRESS"
+    ],
+    "specialty": "PRIMARY_CARE",
+    "channel": "MOBILE",
+    "popularityScore": 70,
+    "freshnessDays": 29
+  },
+  {
+    "contentId": "C69",
+    "title": "Heart Skin Guide",
+    "tags": [
+      "HEART",
+      "SKIN"
+    ],
+    "specialty": "DERMATOLOGY",
+    "channel": "WEB",
+    "popularityScore": 83,
+    "freshnessDays": 40
+  },
+  {
+    "contentId": "C70",
+    "title": "Exercise Sleep Guide",
+    "tags": [
+      "EXERCISE",
+      "SLEEP"
+    ],
+    "specialty": "ENDOCRINOLOGY",
+    "channel": "EMAIL",
+    "popularityScore": 96,
+    "freshnessDays": 51
+  },
+  {
+    "contentId": "C71",
+    "title": "Allergy Exercise Guide",
+    "tags": [
+      "ALLERGY",
+      "EXERCISE"
+    ],
+    "specialty": "NEUROLOGY",
+    "channel": "MOBILE",
+    "popularityScore": 48,
+    "freshnessDays": 2
+  },
+  {
+    "contentId": "C72",
+    "title": "Diabetes Nutrition Guide",
+    "tags": [
+      "DIABETES",
+      "NUTRITION"
+    ],
+    "specialty": "ORTHOPEDICS",
+    "channel": "WEB",
+    "popularityScore": 61,
+    "freshnessDays": 13
+  },
+  {
+    "contentId": "C73",
+    "title": "Arrhythmia Medication Guide",
+    "tags": [
+      "ARRHYTHMIA",
+      "MEDICATION"
+    ],
+    "specialty": "CARDIOLOGY",
+    "channel": "EMAIL",
+    "popularityScore": 74,
+    "freshnessDays": 24
+  },
+  {
+    "contentId": "C74",
+    "title": "Heart Prevention Guide",
+    "tags": [
+      "HEART",
+      "PREVENTION"
+    ],
+    "specialty": "ONCOLOGY",
+    "channel": "MOBILE",
+    "popularityScore": 87,
+    "freshnessDays": 35
+  },
+  {
+    "contentId": "C75",
+    "title": "Asthma Surgery Guide",
+    "tags": [
+      "ASTHMA",
+      "SURGERY"
+    ],
+    "specialty": "PRIMARY_CARE",
+    "channel": "WEB",
+    "popularityScore": 100,
+    "freshnessDays": 46
+  }
+]

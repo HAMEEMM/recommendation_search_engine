@@ -1,0 +1,54 @@
+[
+  {
+    "userId": "U1",
+    "preferredSpecialties": [
+      "DERMATOLOGY",
+      "NEUROLOGY"
+    ],
+    "recentContentIds": [
+      "C8",
+      "C13",
+      "C18"
+    ],
+    "channelPreference": "MOBILE"
+  },
+  {
+    "userId": "U2",
+    "preferredSpecialties": [
+      "PRIMARY_CARE",
+      "ENDOCRINOLOGY"
+    ],
+    "recentContentIds": [
+      "C15",
+      "C20",
+      "C25"
+    ],
+    "channelPreference": "EMAIL"
+  },
+  {
+    "userId": "U3",
+    "preferredSpecialties": [
+      "ONCOLOGY",
+      "DERMATOLOGY"
+    ],
+    "recentContentIds": [
+      "C22",
+      "C27",
+      "C2"
+    ],
+    "channelPreference": "WEB"
+  },
+  {
+    "userId": "U4",
+    "preferredSpecialties": [
+      "CARDIOLOGY",
+      "PRIMARY_CARE"
+    ],
+    "recentContentIds": [
+      "C29",
+      "C4",
+      "C9"
+    ],
+    "channelPreference": "MOBILE"
+  }
+]

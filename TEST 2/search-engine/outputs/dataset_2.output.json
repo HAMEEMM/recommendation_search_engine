@@ -1,0 +1,39 @@
+{
+  "results" : [ {
+    "queryId" : "Q1",
+    "rankedContentIds" : [ "C8", "C17", "C2", "C3", "C16" ]
+  }, {
+    "queryId" : "Q2",
+    "rankedContentIds" : [ "C7", "C26", "C21", "C13", "C5" ]
+  }, {
+    "queryId" : "Q3",
+    "rankedContentIds" : [ "C23", "C20", "C21", "C7", "C15" ]
+  }, {
+    "queryId" : "Q4",
+    "rankedContentIds" : [ "C15", "C7", "C17", "C26", "C14" ]
+  }, {
+    "queryId" : "Q5",
+    "rankedContentIds" : [ "C22", "C9", "C14", "C23", "C6" ]
+  } ],
+  "recommendations" : [ {
+    "queryId" : "Q1",
+    "recommendedContentIds" : [ "C27", "C11", "C22" ]
+  }, {
+    "queryId" : "Q2",
+    "recommendedContentIds" : [ "C23", "C28", "C14" ]
+  }, {
+    "queryId" : "Q3",
+    "recommendedContentIds" : [ "C6", "C14", "C18" ]
+  }, {
+    "queryId" : "Q4",
+    "recommendedContentIds" : [ "C23", "C12", "C20" ]
+  }, {
+    "queryId" : "Q5",
+    "recommendedContentIds" : [ "C27", "C30", "C28" ]
+  } ],
+  "metrics" : {
+    "queriesProcessed" : 5,
+    "topK" : 5,
+    "recommendationCount" : 3
+  }
+}

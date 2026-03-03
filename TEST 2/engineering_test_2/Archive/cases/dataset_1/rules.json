@@ -1,0 +1,12 @@
+{
+  "weights": {
+    "keywordMatch": 50,
+    "tagMatch": 30,
+    "specialtyBoost": 20,
+    "channelBoost": 10,
+    "popularityWeight": 0.5,
+    "freshnessWeight": 0.3
+  },
+  "topK": 5,
+  "recommendationCount": 3
+}

@@ -1,0 +1,69 @@
+{
+  "results" : [ {
+    "queryId" : "Q1",
+    "rankedContentIds" : [ "C41", "C8", "C56", "C64", "C65" ]
+  }, {
+    "queryId" : "Q2",
+    "rankedContentIds" : [ "C7", "C55", "C31", "C37", "C26" ]
+  }, {
+    "queryId" : "Q3",
+    "rankedContentIds" : [ "C69", "C55", "C39", "C45", "C23" ]
+  }, {
+    "queryId" : "Q4",
+    "rankedContentIds" : [ "C63", "C39", "C31", "C15", "C55" ]
+  }, {
+    "queryId" : "Q5",
+    "rankedContentIds" : [ "C9", "C46", "C23", "C22", "C70" ]
+  }, {
+    "queryId" : "Q6",
+    "rankedContentIds" : [ "C22", "C70", "C46", "C10", "C58" ]
+  }, {
+    "queryId" : "Q7",
+    "rankedContentIds" : [ "C60", "C36", "C43", "C12", "C67" ]
+  }, {
+    "queryId" : "Q8",
+    "rankedContentIds" : [ "C28", "C60", "C42", "C12", "C4" ]
+  }, {
+    "queryId" : "Q9",
+    "rankedContentIds" : [ "C27", "C55", "C39", "C75", "C51" ]
+  }, {
+    "queryId" : "Q10",
+    "rankedContentIds" : [ "C54", "C37", "C13", "C61", "C30" ]
+  } ],
+  "recommendations" : [ {
+    "queryId" : "Q1",
+    "recommendedContentIds" : [ "C17", "C14", "C1" ]
+  }, {
+    "queryId" : "Q2",
+    "recommendedContentIds" : [ "C68", "C63", "C23" ]
+  }, {
+    "queryId" : "Q3",
+    "recommendedContentIds" : [ "C21", "C13", "C74" ]
+  }, {
+    "queryId" : "Q4",
+    "recommendedContentIds" : [ "C68", "C23", "C60" ]
+  }, {
+    "queryId" : "Q5",
+    "recommendedContentIds" : [ "C65", "C60", "C33" ]
+  }, {
+    "queryId" : "Q6",
+    "recommendedContentIds" : [ "C71", "C14", "C23" ]
+  }, {
+    "queryId" : "Q7",
+    "recommendedContentIds" : [ "C28", "C20", "C29" ]
+  }, {
+    "queryId" : "Q8",
+    "recommendedContentIds" : [ "C68", "C52", "C5" ]
+  }, {
+    "queryId" : "Q9",
+    "recommendedContentIds" : [ "C11", "C60", "C56" ]
+  }, {
+    "queryId" : "Q10",
+    "recommendedContentIds" : [ "C6", "C22", "C14" ]
+  } ],
+  "metrics" : {
+    "queriesProcessed" : 10,
+    "topK" : 5,
+    "recommendationCount" : 3
+  }
+}

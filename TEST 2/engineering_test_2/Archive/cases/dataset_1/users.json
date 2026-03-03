@@ -1,0 +1,28 @@
+[
+  {
+    "userId": "U1",
+    "preferredSpecialties": [
+      "DERMATOLOGY",
+      "NEUROLOGY"
+    ],
+    "recentContentIds": [
+      "C8",
+      "C3",
+      "C8"
+    ],
+    "channelPreference": "MOBILE"
+  },
+  {
+    "userId": "U2",
+    "preferredSpecialties": [
+      "PRIMARY_CARE",
+      "ENDOCRINOLOGY"
+    ],
+    "recentContentIds": [
+      "C5",
+      "C10",
+      "C5"
+    ],
+    "channelPreference": "EMAIL"
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "userId": "U1",
+    "preferredSpecialties": [
+      "DERMATOLOGY",
+      "NEUROLOGY"
+    ],
+    "recentContentIds": [
+      "C8",
+      "C13",
+      "C18"
+    ],
+    "channelPreference": "MOBILE"
+  },
+  {
+    "userId": "U2",
+    "preferredSpecialties": [
+      "PRIMARY_CARE",
+      "ENDOCRINOLOGY"
+    ],
+    "recentContentIds": [
+      "C15",
+      "C20",
+      "C25"
+    ],
+    "channelPreference": "EMAIL"
+  },
+  {
+    "userId": "U3",
+    "preferredSpecialties": [
+      "ONCOLOGY",
+      "DERMATOLOGY"
+    ],
+    "recentContentIds": [
+      "C22",
+      "C27",
+      "C32"
+    ],
+    "channelPreference": "WEB"
+  },
+  {
+    "userId": "U4",
+    "preferredSpecialties": [
+      "CARDIOLOGY",
+      "PRIMARY_CARE"
+    ],
+    "recentContentIds": [
+      "C29",
+      "C34",
+      "C39"
+    ],
+    "channelPreference": "MOBILE"
+  },
+  {
+    "userId": "U5",
+    "preferredSpecialties": [
+      "ORTHOPEDICS",
+      "ONCOLOGY"
+    ],
+    "recentContentIds": [
+      "C36",
+      "C41",
+      "C46"
+    ],
+    "channelPreference": "EMAIL"
+  },
+  {
+    "userId": "U6",
+    "preferredSpecialties": [
+      "NEUROLOGY",
+      "CARDIOLOGY"
+    ],
+    "recentContentIds": [
+      "C43",
+      "C48",
+      "C53"
+    ],
+    "channelPreference": "WEB"
+  },
+  {
+    "userId": "U7",
+    "preferredSpecialties": [
+      "ENDOCRINOLOGY",
+      "ORTHOPEDICS"
+    ],
+    "recentContentIds": [
+      "C50",
+      "C55",
+      "C60"
+    ],
+    "channelPreference": "MOBILE"
+  },
+  {
+    "userId": "U8",
+    "preferredSpecialties": [
+      "DERMATOLOGY",
+      "NEUROLOGY"
+    ],
+    "recentContentIds": [
+      "C57",
+      "C62",
+      "C67"
+    ],
+    "channelPreference": "EMAIL"
+  }
+]

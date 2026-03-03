@@ -1,0 +1,27 @@
+[
+  {
+    "queryId": "Q1",
+    "userId": "U1",
+    "queryText": "diabetes diet"
+  },
+  {
+    "queryId": "Q2",
+    "userId": "U2",
+    "queryText": "chest pain heart"
+  },
+  {
+    "queryId": "Q3",
+    "userId": "U3",
+    "queryText": "skin rash allergy"
+  },
+  {
+    "queryId": "Q4",
+    "userId": "U4",
+    "queryText": "knee pain recovery"
+  },
+  {
+    "queryId": "Q5",
+    "userId": "U1",
+    "queryText": "blood pressure exercise"
+  }
+]

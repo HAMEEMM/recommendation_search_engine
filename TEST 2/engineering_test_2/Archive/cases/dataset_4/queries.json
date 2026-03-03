@@ -1,0 +1,77 @@
+[
+  {
+    "queryId": "Q1",
+    "userId": "U1",
+    "queryText": "diabetes diet"
+  },
+  {
+    "queryId": "Q2",
+    "userId": "U2",
+    "queryText": "chest pain heart"
+  },
+  {
+    "queryId": "Q3",
+    "userId": "U3",
+    "queryText": "skin rash allergy"
+  },
+  {
+    "queryId": "Q4",
+    "userId": "U4",
+    "queryText": "knee pain recovery"
+  },
+  {
+    "queryId": "Q5",
+    "userId": "U5",
+    "queryText": "blood pressure exercise"
+  },
+  {
+    "queryId": "Q6",
+    "userId": "U6",
+    "queryText": "migraine sleep"
+  },
+  {
+    "queryId": "Q7",
+    "userId": "U7",
+    "queryText": "cancer screening"
+  },
+  {
+    "queryId": "Q8",
+    "userId": "U8",
+    "queryText": "stress wellness"
+  },
+  {
+    "queryId": "Q9",
+    "userId": "U1",
+    "queryText": "asthma allergy"
+  },
+  {
+    "queryId": "Q10",
+    "userId": "U2",
+    "queryText": "covid vaccine"
+  },
+  {
+    "queryId": "Q11",
+    "userId": "U3",
+    "queryText": "diabetes diet"
+  },
+  {
+    "queryId": "Q12",
+    "userId": "U4",
+    "queryText": "chest pain heart"
+  },
+  {
+    "queryId": "Q13",
+    "userId": "U5",
+    "queryText": "skin rash allergy"
+  },
+  {
+    "queryId": "Q14",
+    "userId": "U6",
+    "queryText": "knee pain recovery"
+  },
+  {
+    "queryId": "Q15",
+    "userId": "U7",
+    "queryText": "blood pressure exercise"
+  }
+]

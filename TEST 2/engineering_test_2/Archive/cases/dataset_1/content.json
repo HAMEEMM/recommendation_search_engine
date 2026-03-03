@@ -1,0 +1,122 @@
+[
+  {
+    "contentId": "C1",
+    "title": "Arrhythmia Medication Guide",
+    "tags": [
+      "ARRHYTHMIA",
+      "MEDICATION"
+    ],
+    "specialty": "NEUROLOGY",
+    "channel": "EMAIL",
+    "popularityScore": 53,
+    "freshnessDays": 12
+  },
+  {
+    "contentId": "C2",
+    "title": "Heart Prevention Guide",
+    "tags": [
+      "HEART",
+      "PREVENTION"
+    ],
+    "specialty": "ORTHOPEDICS",
+    "channel": "MOBILE",
+    "popularityScore": 66,
+    "freshnessDays": 23
+  },
+  {
+    "contentId": "C3",
+    "title": "Asthma Surgery Guide",
+    "tags": [
+      "ASTHMA",
+      "SURGERY"
+    ],
+    "specialty": "CARDIOLOGY",
+    "channel": "WEB",
+    "popularityScore": 79,
+    "freshnessDays": 34
+  },
+  {
+    "contentId": "C4",
+    "title": "Ortho Stress Guide",
+    "tags": [
+      "ORTHO",
+      "STRESS"
+    ],
+    "specialty": "ONCOLOGY",
+    "channel": "EMAIL",
+    "popularityScore": 92,
+    "freshnessDays": 45
+  },
+  {
+    "contentId": "C5",
+    "title": "Heart Stress Guide",
+    "tags": [
+      "HEART",
+      "STRESS"
+    ],
+    "specialty": "PRIMARY_CARE",
+    "channel": "MOBILE",
+    "popularityScore": 44,
+    "freshnessDays": 56
+  },
+  {
+    "contentId": "C6",
+    "title": "Exercise Vaccine Guide",
+    "tags": [
+      "EXERCISE",
+      "VACCINE"
+    ],
+    "specialty": "DERMATOLOGY",
+    "channel": "WEB",
+    "popularityScore": 57,
+    "freshnessDays": 7
+  },
+  {
+    "contentId": "C7",
+    "title": "Allergy Chest Pain Guide",
+    "tags": [
+      "ALLERGY",
+      "CHEST_PAIN"
+    ],
+    "specialty": "ENDOCRINOLOGY",
+    "channel": "EMAIL",
+    "popularityScore": 70,
+    "freshnessDays": 18
+  },
+  {
+    "contentId": "C8",
+    "title": "Diabetes Surgery Guide",
+    "tags": [
+      "DIABETES",
+      "SURGERY"
+    ],
+    "specialty": "NEUROLOGY",
+    "channel": "MOBILE",
+    "popularityScore": 83,
+    "freshnessDays": 29
+  },
+  {
+    "contentId": "C9",
+    "title": "Arrhythmia Blood Pressure Guide",
+    "tags": [
+      "ARRHYTHMIA",
+      "BLOOD_PRESSURE"
+    ],
+    "specialty": "ORTHOPEDICS",
+    "channel": "WEB",
+    "popularityScore": 96,
+    "freshnessDays": 40
+  },
+  {
+    "contentId": "C10",
+    "title": "Migraine Prevention Guide",
+    "tags": [
+      "MIGRAINE",
+      "PREVENTION"
+    ],
+    "specialty": "CARDIOLOGY",
+    "channel": "EMAIL",
+    "popularityScore": 48,
+    "freshnessDays": 51
+  }
+]
